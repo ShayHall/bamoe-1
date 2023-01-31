@@ -377,7 +377,7 @@ else "Insufficient"</dmn:text>
       <dmn:annotation name=""/>
       <dmn:rule id="_B49E1642-F352-4D2E-92B6-E5DFA59AAFAC">
         <dmn:inputEntry id="_6C83C446-1A9A-4FFC-B30C-23915FF9CC43">
-          <dmn:text>"Poor", "Really_poor"</dmn:text>
+          <dmn:text>"Poor", "Bad"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_0BC93CB9-FD20-45C8-A498-39E4464B6224">
           <dmn:text>-</dmn:text>
